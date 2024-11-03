@@ -2,7 +2,7 @@ from tkinter import *
 from configparser import ConfigParser    #to read api
 import requests
 from tkinter import messagebox
-    # importing module for time zone and locatio access
+    # importing module for time zone and location access
 from geopy.geocoders import Nominatim
 from timezonefinder import TimezoneFinder
 import pytz
