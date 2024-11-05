@@ -51,7 +51,7 @@ def getWeather():
     location = geolocator.geocode(city)
 
 
-    # pass the Latitude and Longitude
+    # pass the Latitude and Longitudes
     # into a timezone_at
     # and it return timezone
     obj = TimezoneFinder()
