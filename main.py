@@ -118,7 +118,7 @@ search_button= Button(main_window, image=search_icon , bd=0,bg= "#404040", curso
 search_button.place(x= 435 , y = 52)
 
 
-#logo
+#logos
 
 logo = PhotoImage(file= "Copy of logo.png")
 logo_label= Label(image=logo,bg= "azure")
